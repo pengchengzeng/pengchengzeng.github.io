@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengcheng Zeng (曾鹏程)"
-description              : "Focusing on Statistical Machine Learning, AI, Functional Data Analysis and Computational Biology."
+description              : "Statistical Machine Learning, AI, Functional Data Analysis and Computational Biology"
 repository               : "pengchengzeng/pengchengzeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Pengcheng Zeng (曾鹏程)"
   avatar           : "images/pc_profile.jpeg"
-  bio              : "AI | Stats | Bioinformatics"
+  bio              : "Assistant Professor (PhD Advisor)"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "ShanghaiTech University"
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
   email            : "zengpch@shanghaitech.edu.cn"
