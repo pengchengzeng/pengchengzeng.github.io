@@ -28,7 +28,7 @@ My current research interests include **Cryptographic Hardware Acceleration** an
 - *2025.04*: Our paper entitled "MHTrack: mmWave-based Mobile Hand Tracking" was accepted by IEEE TMC.
 - *2025.04*: Our paper entitled "Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing" was accepted by IEEE TMC.
 
-# 📘 Selected Publications 
+# 📘 Publications 
 ## 🏃‍♀️ mmWave Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2023</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -105,7 +105,7 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 
 → [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
 
-# 📋 Services
+# 📋 Group Members
 - *2025.11*, TPC Member, TrustCom 2025
 - *2023.10*, Workshop Chair, ICA3PP 2023
 
