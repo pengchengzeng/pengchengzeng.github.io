@@ -24,8 +24,8 @@ author:
   name             : "Pengcheng Zeng (曾鹏程)"
   avatar           : "images/pc_profile.jpeg"
   bio              : "Assistant Professor (PhD Advisor)"
-  location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
+  location         : "Shanghai, China"
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
   email            : "zengpch@shanghaitech.edu.cn"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pengchengzeng"
+  github           : #"pengchengzeng"
   google_plus      :
   keybase          :
   instagram        :
