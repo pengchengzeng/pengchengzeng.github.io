@@ -112,15 +112,15 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 # 👨‍🏫 Teaching
 - *COSC0069*, Computer Hardware Fundamentals
 
-# 🏆 Honors and Awards
-- *2025.05* Huawei Scholarship
-- *2024.07* Graduated from the 1st National Training for College Cybersecurity Teachers
-- *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
-- *2021.01* Outstanding Graduates of Tianjin University
-- *2020.08* OnMicro Scholarship
-
 # 🎓 Experiences
 - *2025.07 - Now*, Lecturer, College of Cryptology and Cyber Science, Nankai University
 - *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology
 - *2018.09 - 2021.01*, M.S., Tianjin University, Electronic and Communication Engineering
 - *2014.09 - 2018.06*, B.E., Tianjin University, Internet of Things Engineering
+
+# 🏆 Positions
+- *2025.05* Huawei Scholarship
+- *2024.07* Graduated from the 1st National Training for College Cybersecurity Teachers
+- *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
+- *2021.01* Outstanding Graduates of Tianjin University
+- *2020.08* OnMicro Scholarship
