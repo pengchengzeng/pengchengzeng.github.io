@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "Me and My Lab"
-    url: "/#-me-and-my-lab"
+  - title: "About Me"
+    url: "/#about-me"
 
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Services"
+    url: "/#-services"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
@@ -21,5 +18,8 @@ main:
   - title: "Teaching"
     url: "/#-teaching"
 
-  - title: "Join Us"
-    url: "/#-join-us"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Experiences"
+    url: "/#-experiences"
