@@ -7,19 +7,16 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#-publications"
 
   - title: "Group Members"
     url: "/#-group-members"
 
- # - title: "Invited Talks"
- #   url: "/#-invited-talks"
-
   - title: "Teaching"
     url: "/#-teaching"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Experiences"
     url: "/#-experiences"
+
+  - title: "Positions"
+    url: "/#-positions"
