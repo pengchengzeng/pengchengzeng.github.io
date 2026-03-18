@@ -6,11 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Selected Publications"
+  - title: "Publications"
     url: "/#-selected-publications"
 
-  - title: "Services"
-    url: "/#-services"
+  - title: "Group Members"
+    url: "/#-group-members"
 
  # - title: "Invited Talks"
  #   url: "/#-invited-talks"
