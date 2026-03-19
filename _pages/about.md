@@ -113,17 +113,16 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 - *COSC0069*, Computer Hardware Fundamentals
 
 # 🏆 Honors and Awards
-- *2025.05* Huawei Scholarship
-- *2024.07* Graduated from the 1st National Training for College Cybersecurity Teachers
-- *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
-- *2021.01* Outstanding Graduates of Tianjin University
-- *2020.08* OnMicro Scholarship
+- *2024.01* “Pearl Elite Talents of 2024” of Shanghai City
+- *2023.01* “Excellent Faculty of 2023” of ShanghaiTech University
+- *2023.01* “Overseas Leading Talents of 2023” of Shanghai City
+- *2014.09*  Ph.D. Full Scholarship
 
 # 🎓 Experiences
-- *2025.07 - Now*, Lecturer, College of Cryptology and Cyber Science, Nankai University
-- *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology
-- *2018.09 - 2021.01*, M.S., Tianjin University, Electronic and Communication Engineering
-- *2014.09 - 2018.06*, B.E., Tianjin University, Internet of Things Engineering
+- *2021.12 – present*, Assistant Professor, Institute of Mathematical Sciences, ShanghaiTech University, Shanghai, China
+- *2019.09 – 2021.11*, Postdoctoral Fellow, Department of Statistics, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *2018.05 – 2019.08*, Data Scientist, Bright Dream Robotics Co., Ltd., Foshan, China
+- *2018.07*, Ph.D. (STATISTICS), School of Mathematics & Statistics, Newcastle University, Newcastle upon Tyne, UK
 
 # 🏆 Positions
 - *2025.05* Huawei Scholarship
