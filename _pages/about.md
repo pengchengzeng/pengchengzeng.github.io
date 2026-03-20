@@ -33,52 +33,76 @@ The research group I lead focuses on the following areas:
 - *2025.12*: Our paper entitled "Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data" was accepted by Bioinformatics.
 
 # 📘 Publications 
-___**boldface** denotes group members___
+___boldface denotes group members___
 ___+ denotes co-first authors with equal contribution___
 ___* denotes corresponding author with equal contribution___
 
-## Peer-reviewer papers
-### Statistical Machine Learning and Functional Data
+## Statistical Machine Learning and Functional Data
 - **Siyuan Jiang+**, **Yihan Hu+**, **Wenjie Li** and **Pengcheng Zeng***. (2026) DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification. (<font color=Blue>``International Conference on Learning Representations (ICLR) 2026, CCF-A``</font>).
 - **Wenjie Li**, Jiawei Li, **Pengcheng Zeng***, Christian Schroeder de Witt, Ameya Prabhu, Amartya Sanyal*. (2026) Delta-Influence: Unlearning Poisons via Influence Functions. Transactions on Machine Learning Research (TMLR). Accepted.
+- Lin Tang+, **Pengcheng Zeng+**, Jian Qing Shi* and Won-Seok Kim. (2022) Model-based joint curve registration and classification. Journal of Applied Statistics. https://doi.org/10.1080/02664763.2021.2 023118.
+- **Pengcheng Zeng**, Jian Qing Shi* and Won-Seok Kim. (2019) Simultaneous registration and clustering for multi-dimensional functional data. Journal of Computational and Graphical Statistics; 4(28): 943-953. 
 
-### Statistical Genetics and Bioinformatics
+## Statistical Genetics and Bioinformatics
 - **Hongyao Li+**, **Yunrui Liu+** and **Pengcheng Zeng***. (2025) Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data. Bioinformatics; 41(12):btaf639.
+- **Pengcheng Zeng*** and Zhixiang Lin. (2024) scICML: Information-theoretic Co-clustering-based Multi-view Learning for the Integrative Analysis of Single-cell Multi-omics data. IEEE/ACM Transactions on Computational Biology and Bioinformatics. DOI : 10.1109/TCBB.2023.3305989. (CCF-B)
+- **Pengcheng Zeng** and Zhixiang Lin*. (2023) scAWMV: an adaptively weighted multi-view learning framework for the integrative analysis of parallel scRNA-seq and scATAC-seq data. Bioinformatics; 39(1): btac739.
+- Yuanyuan Ma, Zexuan Sun, **Pengcheng Zeng**, Wenyu Zhang and Zhixiang Lin*. (2022) JSNMF enables effective and accurate integrative analysis of single-cell multi-omics data. Briefings in Bioinformatics; 23(3):bbac105.
+- **Pengcheng Zeng** and Zhixiang Lin*. (2021) coupleCoC+: an information-theoretic co-clustering-based transfer learning framework for the integrative analysis of single-cell genomic data. PLoS Computational Biology; 17 (6): e1009064.
+- **Pengcheng Zeng**, Jiaxuan Wangwu and Zhixiang Lin*. (2021) Coupled co-clustering-based unsupervised transfer learning for the integrative analysis of single-cell genomic data. Briefings in Bioinformatics; 22(4):bbaa34. 
 
-### Data Science and Interdisciplinary Studies
+## Data Science and Interdisciplinary Studies
 - Chen Jason Zhang+, **Yunrui Liu+**, **Pengcheng Zeng***, Ting Wu, Lei Chen, Pan Hui and Fei Hao. (2024) Similarity-driven and Task-driven Models for Diversity of Opinion in Crowdsourcing Markets. The International Journal on Very Large Data Bases (The VLDB Journal); 33: 1377–1398. https://doi.org/10.1007/s00778-024-00853-0. (CCF-A)
+- Won-Seok Kim+, **Pengcheng Zeng+**, Jian Qing Shi*, Youngjo Lee and Nam-Jong Paik. (2017) Semi-automatic Tracking, Smoothing and Segmentation of Hyoid Bone Motion from Videoflfluoroscopic Swallowing Study. PLoS ONE; 12(11): e0188684. https://doi.org/10.1371/journal. 
 
 ## Preprints
+- **Xinyang Xiong+**, **Siyuan Jiang+** and **Pengcheng Zeng***. (arXiv 2026) NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data arXiv:2602.03169.
 - **Pengcheng Zeng+*** and **Siyuan Jiang+**. (arXiv 2025) Semi-parametric Functional Classification via Path Signatures Logistic Regression. https://arxiv.org/abs/2507.06637.
-
-
-
-**Hankai Liu**, Yongtao Ma, Xiulong Liu *et al.*
-
-- First RFID-based simultaneous vehicle localization and speed measurement system via novel phase sampling strategy.
-
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAP 2020</div><img src='images/moloc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[The Influence of the Nonideal Phase Offset on SAR-Based Localization in Passive UHF RFID](https://ieeexplore.ieee.org/document/9052482)
-
-Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
-
-- Enabling RFID mobile localization with high accuracy and low computational latency through phase unwrapping and nonlinear optimization.
-
-</div>
-</div>
-
-→ [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
+- **Tao Ding** and **Pengcheng Zeng***. (arXiv 2025) A Unified Landmark-Free Framework for Coarse-to-Fine Spatial Alignment Across Resolutions and Modalities in Spatial Transcriptomics. https://www.biorxiv.org/content/10.64898/2025.11.29.691288v1
+- Benyan Zhang+, ShuHong Yang+, LingYun Wang+, **TianLu Zhu**, Yu Mei, Ying Zhan , XiaoQian Huang, Huan Zhang, Fei Yuan, **Pengcheng Zeng***, Jinling Jiang*, Jun Zhang*.   Distribution Pattern of Residual Tumour Cells in the Tumour Bed: An Innovative Efficacy Evaluation Method for Advanced Gastric Cancer after Preoperative Therapy. 
 
 # 📋 Group Members
-- *2025.11*, TPC Member, TrustCom 2025
-- *2023.10*, Workshop Chair, ICA3PP 2023
+- Postdoctoral Fellow
+  
+  Tao Ding
+  
+- PhD students
+  
+  Siyuan Jiang (ShanghaiTech University, 2023 Fall)
+  
+  Yunrui Liu (ShanghaiTech University, 2023 Fall)
+  
+- Master students
+  
+  Zhenhong Gui (ShanghaiTech University, 2024 Fall)
+  
+  Xinyang Xiong (ShanghaiTech University, 2024 Fall)
+  
+  Wenjie Li (ShanghaiTech University, 2022 Fall)
+
+- Research Assistants
+  
+  Hongyao Li (ShanghaiTech University, 2024 Fall)
+  
+  Peida Wu (ShanghaiTech University, 2024 Fall)
+
+- Alumni
+  
+  Yihan Hu (RA, next position: master in)
+  
+  Tianlu Zhu (RA, next position: master in )
 
 # 👨‍🏫 Teaching
-- *COSC0069*, Computer Hardware Fundamentals
+## Master courses
+- *Statistical Foundation of Data Science*: 2026 Spring
+- *Data Science: Principle and Practice*: 2024 Autumn
+- *Statistical InferenceⅠ*: 2023 Spring, 2024 Spring, 2025 Spring
+
+## Undergraduate courses
+- *Linear Algebra Ⅰ*: 2025 Autumn
+- *Probability and Statistics Ⅰ*: 2022 Spring &Autumn, 2023 Autumn
+- *Undergraduate Seminar*: 2024 Autumn
+
 
 # 🏆 Honors and Awards
 - *2024.01* “Pearl Elite Talents of 2024” of Shanghai City
