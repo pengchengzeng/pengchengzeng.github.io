@@ -62,6 +62,9 @@ ___* denotes corresponding author with equal contribution___
 - Benyan Zhang+, ShuHong Yang+, LingYun Wang+, **TianLu Zhu**, Yu Mei, Ying Zhan , XiaoQian Huang, Huan Zhang, Fei Yuan, **Pengcheng Zeng***, Jinling Jiang*, Jun Zhang*.   Distribution Pattern of Residual Tumour Cells in the Tumour Bed: An Innovative Efficacy Evaluation Method for Advanced Gastric Cancer after Preoperative Therapy. 
 
 # 📋 Group Members
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autumn Outing 2025</div><img src='images/group_photo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - Postdoctoral Fellow
   
   Tao Ding
