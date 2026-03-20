@@ -26,7 +26,7 @@ The research group I lead focuses on the following areas:
 - **Statistical genomics**, including single-cell multi-omics and spatial transcriptomics;
 - Interdisciplinary research bridging **data science** with other fields.
 
-📢📢 <span style="color:red;"> Prospective graduate and undergraduate students are welcome to join my group. We are also hiring a postdoctoral fellow. See Positions for details.
+📢📢 <span style="color:red;"> Prospective graduate and undergraduate students are welcome to join my group. We are also seeking a postdoctoral fellow. See Positions for details.
 
 📢📢 <span style="color:green;"> Collaborations welcome—especially with researchers in biomedicine (genomics, spatial omics, etc), data science and AI.
 
@@ -35,9 +35,7 @@ The research group I lead focuses on the following areas:
 - *2025.12*: Our paper entitled "Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data" was accepted by Bioinformatics.
 
 # 📘 Publications 
-___boldface denotes group members___
-___+ denotes co-first authors with equal contribution___
-___* denotes corresponding author with equal contribution___
+**boldface** : group members; + : co-first authors with equal contribution; * : corresponding authors with equal contribution
 
 ## Statistical Machine Learning and Functional Data
 - **Siyuan Jiang+**, **Yihan Hu+**, **Wenjie Li** and **Pengcheng Zeng***. (2026) DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification. (<font color=Blue>``International Conference on Learning Representations (ICLR) 2026, CCF-A``</font>).
@@ -126,9 +124,9 @@ ___* denotes corresponding author with equal contribution___
 
 # 🏆 Positions
 ## Graduate and Undergraduate Students
-For students interested in joining the research group, please contact Dr. Pengcheng Zeng to discuss.
+For students interested in joining the research group, please contact me to discuss.
 
-##Postdoctoral Researcher (New Post)
+## Postdoctoral Researcher (New Post)
 We seek a postdoctoral fellow to work on methodology and theory in explainable AI and uncertainty quantification, or statistical modeling in single-cell multi-omics and spatial transcriptomics. Prior experience in machine learning, statistics, or computational biology is highly preferred. Strong programming skills are highly valued.
 
 The start date is negotiable and can be immediate. This is a two-year contract, renewable upon satisfactory performance. Salary is competitive and commensurate with experience, with benefits.
