@@ -89,7 +89,10 @@ ___* denotes corresponding author with equal contribution___
   
   Peida Wu (ShanghaiTech University, 2024 Fall)
 
-- Alumni
+</div>
+</div>
+
+## *Alumni*
   
   Yihan Hu (RA, next position: master in)
   
