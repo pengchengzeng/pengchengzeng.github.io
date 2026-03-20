@@ -26,7 +26,7 @@ The research group I lead focuses on the following areas:
 - **Statistical genomics**, including single-cell multi-omics and spatial transcriptomics;
 - Interdisciplinary research bridging **data science** with other fields.
 
-📢📢 <span style="color:red;"> Prospective graduate and undergraduate students are welcome to join my group. We are also seeking a postdoctoral fellow. See Positions for details.
+📢📢 <span style="color:red;"> Prospective graduate and undergraduate students are welcome to join my group. We are also seeking a postdoctoral fellow. See Opportunities for details.
 
 📢📢 <span style="color:green;"> Collaborations welcome—especially with researchers in biomedicine (genomics, spatial omics, etc), data science and AI.
 
@@ -109,7 +109,6 @@ The research group I lead focuses on the following areas:
 - *Probability and Statistics Ⅰ*: 2022 Spring &Autumn, 2023 Autumn
 - *Undergraduate Seminar*: 2024 Autumn
 
-
 # 🏆 Honors and Awards
 - *2024.01* “Pearl Elite Talents of 2024” of Shanghai City
 - *2024.01* “Excellent Faculty of 2023” of ShanghaiTech University
@@ -122,7 +121,7 @@ The research group I lead focuses on the following areas:
 - *2018.05 – 2019.08*, Data Scientist, Bright Dream Robotics Co., Ltd., Foshan, China
 - *2018.07*, Ph.D. (STATISTICS), School of Mathematics & Statistics, Newcastle University, Newcastle upon Tyne, UK
 
-# 🏆 Positions
+# 🏆 Opportunities
 ## Graduate and Undergraduate Students
 For students interested in joining the research group, please contact me to discuss.
 
