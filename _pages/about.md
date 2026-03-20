@@ -26,7 +26,9 @@ The research group I lead focuses on the following areas:
 - **Statistical genomics**, including single-cell multi-omics and spatial transcriptomics;
 - Interdisciplinary research bridging **data science** with other fields.
 
-📢📢 <span style="color:red;"> My group is recruiting postdoctoral fellows to work on methodology and theory in **explainable AI and uncertainty quantification**, as well as their applications in **single-cell multi-omics and spatial transcriptomics** (see the details in Positions). 
+📢📢 <span style="color:red;"> Prospective graduate and undergraduate students are welcome to join my group. We are also hiring a postdoctoral fellow. See Positions for details.
+
+📢📢 <span style="color:green;"> Collaborations welcome—especially with researchers in biomedicine (genomics, spatial omics, etc), data science and AI.
 
 # 🔥 News
 - *2026.01*: Our paper entitled "DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification" was accepted by ICLR 2026.
@@ -123,8 +125,18 @@ ___* denotes corresponding author with equal contribution___
 - *2018.07*, Ph.D. (STATISTICS), School of Mathematics & Statistics, Newcastle University, Newcastle upon Tyne, UK
 
 # 🏆 Positions
-- *2025.05* Huawei Scholarship
-- *2024.07* Graduated from the 1st National Training for College Cybersecurity Teachers
-- *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
-- *2021.01* Outstanding Graduates of Tianjin University
-- *2020.08* OnMicro Scholarship
+## Graduate and Undergraduate Students
+For students interested in joining the research group, please contact Dr. Pengcheng Zeng to discuss.
+
+##Postdoctoral Researcher (New Post)
+We seek a postdoctoral fellow to work on methodology and theory in explainable AI and uncertainty quantification, or statistical modeling in single-cell multi-omics and spatial transcriptomics. Prior experience in machine learning, statistics, or computational biology is highly preferred. Strong programming skills are highly valued.
+
+The start date is negotiable and can be immediate. This is a two-year contract, renewable upon satisfactory performance. Salary is competitive and commensurate with experience, with benefits.
+
+To apply, please send the following items to pchzeng at shanghaitech dot edu dot cn:
+
+- CV
+- Writing sample (e.g., a published article or preprint)
+- Research statement
+- Teaching statement
+- Contact information for four references
