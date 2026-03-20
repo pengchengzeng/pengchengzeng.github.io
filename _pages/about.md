@@ -55,7 +55,7 @@ ___* denotes corresponding author with equal contribution___
 - Chen Jason Zhang+, **Yunrui Liu+**, **Pengcheng Zeng***, Ting Wu, Lei Chen, Pan Hui and Fei Hao. (2024) Similarity-driven and Task-driven Models for Diversity of Opinion in Crowdsourcing Markets. The International Journal on Very Large Data Bases (The VLDB Journal); 33: 1377–1398. https://doi.org/10.1007/s00778-024-00853-0. (CCF-A)
 - Won-Seok Kim+, **Pengcheng Zeng+**, Jian Qing Shi*, Youngjo Lee and Nam-Jong Paik. (2017) Semi-automatic Tracking, Smoothing and Segmentation of Hyoid Bone Motion from Videoflfluoroscopic Swallowing Study. PLoS ONE; 12(11): e0188684. https://doi.org/10.1371/journal. 
 
-## Preprints
+## *Preprints*
 - **Xinyang Xiong+**, **Siyuan Jiang+** and **Pengcheng Zeng***. (arXiv 2026) NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data arXiv:2602.03169.
 - **Pengcheng Zeng+*** and **Siyuan Jiang+**. (arXiv 2025) Semi-parametric Functional Classification via Path Signatures Logistic Regression. https://arxiv.org/abs/2507.06637.
 - **Tao Ding** and **Pengcheng Zeng***. (arXiv 2025) A Unified Landmark-Free Framework for Coarse-to-Fine Spatial Alignment Across Resolutions and Modalities in Spatial Transcriptomics. https://www.biorxiv.org/content/10.64898/2025.11.29.691288v1
