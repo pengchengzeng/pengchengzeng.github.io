@@ -21,73 +21,37 @@ redirect_from:
 I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University. My research focuses on statistical machine learning, artificial intelligence, and biomedical big data analytics. I received my Ph.D. in Statistics from Newcastle University, UK, in 2018, under the supervision of [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清).
 
 The research group I lead focuses on the following areas:
-- AI and statistics, with an emphasis on explainable AI and uncertainty quantification;
-- Functional data analysis, covering methodology, theory, and applications;
-- Statistical genomics, including single-cell multi-omics and spatial transcriptomics;
-- Interdisciplinary research bridging data science with other fields.
+- **AI and statistics**, with an emphasis on explainable AI and uncertainty quantification;
+- **Functional data analysis**, covering methodology, theory, and applications;
+- **Statistical genomics**, including single-cell multi-omics and spatial transcriptomics;
+- Interdisciplinary research bridging **data science** with other fields.
 
-📢📢 <span style="color:red;"> My research group is currently recruiting postdoctoral fellows to work on methodology and theory in **explainable AI and uncertainty quantification**, as well as their applications in **single-cell multi-omics and spatial transcriptomics** (see the details in Positions). Drop me an email if you are interested.
+📢📢 <span style="color:red;"> My group is recruiting postdoctoral fellows to work on methodology and theory in **explainable AI and uncertainty quantification**, as well as their applications in **single-cell multi-omics and spatial transcriptomics** (see the details in Positions). 
 
 # 🔥 News
 - *2026.01*: Our paper entitled "DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification" was accepted by ICLR 2026.
 - *2025.12*: Our paper entitled "Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data" was accepted by Bioinformatics.
 
 # 📘 Publications 
-## 🏃‍♀️ mmWave Sensing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2023</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+___**boldface** denotes group members___
+___+ denotes co-first authors with equal contribution___
+___* denotes corresponding author with equal contribution___
 
-[PmTrack: Enabling Personalized mmWave-based Human Tracking](https://dl.acm.org/doi/10.1145/3631433)
+## Peer-reviewer papers
+### Statistical Machine Learning and Functional Data
+- **Siyuan Jiang+**, **Yihan Hu+**, **Wenjie Li** and **Pengcheng Zeng***. (2026) DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification. (<font color=Blue>``International Conference on Learning Representations (ICLR) 2026, CCF-A``</font>).
+- **Wenjie Li**, Jiawei Li, **Pengcheng Zeng***, Christian Schroeder de Witt, Ameya Prabhu, Amartya Sanyal*. (2026) Delta-Influence: Unlearning Poisons via Influence Functions. Transactions on Machine Learning Research (TMLR). Accepted.
 
-**Hankai Liu**, Xiulong Liu, Xin Xie *et al.*
+### Statistical Genetics and Bioinformatics
+- **Hongyao Li+**, **Yunrui Liu+** and **Pengcheng Zeng***. (2025) Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data. Bioinformatics; 41(12):btaf639.
 
-- Introducing IMUs as identity indicators into mmWave sensing systems for lightweight and accurate personalized multi-person tracking.
+### Data Science and Interdisciplinary Studies
+- Chen Jason Zhang+, **Yunrui Liu+**, **Pengcheng Zeng***, Ting Wu, Lei Chen, Pan Hui and Fei Hao. (2024) Similarity-driven and Task-driven Models for Diversity of Opinion in Crowdsourcing Markets. The International Journal on Very Large Data Bases (The VLDB Journal); 33: 1377–1398. https://doi.org/10.1007/s00778-024-00853-0. (CCF-A)
 
-</div>
-</div>
+## Preprints
+- **Pengcheng Zeng+*** and **Siyuan Jiang+**. (arXiv 2025) Semi-parametric Functional Classification via Path Signatures Logistic Regression. https://arxiv.org/abs/2507.06637.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/mhtrack.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[MHTrack: mmWave-based Mobile Hand Tracking](https://ieeexplore.ieee.org/document/10962443)
-
-Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
-
-- First demonstration of mmWave-based hand trajectory tracking and hand-painted pattern recognition during user movement.
-
-</div>
-</div>
-
-## 🛡️ Sensing Security
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/mufilter.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing](https://ieeexplore.ieee.org/document/10946842)
-
-Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
-
-- Resolving cross-interference in signal perturbations to satisfy differentiated privacy protection preferences of multiple users.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Commun. Mag. 2023</div><img src='images/mmfilter.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Application-Oriented Privacy Filter for mmWave Radar](https://ieeexplore.ieee.org/document/10268839)
-
-**Hankai Liu**, Xiulong Liu, Xin Xie *et al.*
-
-- Implementing the pioneering signal-matrix perturbation approach to achieve personalized behavioral privacy protection in mmWave sensing.
-
-</div>
-</div>
-
-## 🤖 RF Mobile Localization
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2022</div><img src='images/resensing.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Toward Simultaneous Localization and Speed Measurement of Mobile Vehicles via RF-ELP](https://ieeexplore.ieee.org/document/9709594)
 
 **Hankai Liu**, Yongtao Ma, Xiulong Liu *et al.*
 
@@ -118,7 +82,7 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 
 # 🏆 Honors and Awards
 - *2024.01* “Pearl Elite Talents of 2024” of Shanghai City
-- *2023.01* “Excellent Faculty of 2023” of ShanghaiTech University
+- *2024.01* “Excellent Faculty of 2023” of ShanghaiTech University
 - *2023.01* “Overseas Leading Talents of 2023” of Shanghai City
 - *2014.09*  Ph.D. Full Scholarship
 
