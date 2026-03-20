@@ -61,7 +61,7 @@ The research group I lead focuses on the following areas:
 - **Tao Ding** and **Pengcheng Zeng***. (arXiv 2025) A Unified Landmark-Free Framework for Coarse-to-Fine Spatial Alignment Across Resolutions and Modalities in Spatial Transcriptomics. https://www.biorxiv.org/content/10.64898/2025.11.29.691288v1
 - Benyan Zhang+, ShuHong Yang+, LingYun Wang+, **TianLu Zhu**, Yu Mei, Ying Zhan , XiaoQian Huang, Huan Zhang, Fei Yuan, **Pengcheng Zeng***, Jinling Jiang*, Jun Zhang*.   Distribution Pattern of Residual Tumour Cells in the Tumour Bed: An Innovative Efficacy Evaluation Method for Advanced Gastric Cancer after Preoperative Therapy. 
 
-# 📋 Group Members
+# 👥 Group Members
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autumn Outing 2025</div><img src='images/group_photo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -121,7 +121,7 @@ The research group I lead focuses on the following areas:
 - *2018.05 – 2019.08*, Data Scientist, Bright Dream Robotics Co., Ltd., Foshan, China
 - *2018.07*, Ph.D. (STATISTICS), School of Mathematics & Statistics, Newcastle University, Newcastle upon Tyne, UK
 
-# 🏆 Opportunities
+# 🔍 Opportunities
 ## Graduate and Undergraduate Students
 For students interested in joining the research group, please contact me to discuss.
 
