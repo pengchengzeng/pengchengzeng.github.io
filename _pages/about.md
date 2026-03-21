@@ -24,7 +24,7 @@ The research group I lead focuses on the following areas:
 - **AI and statistics**, with an emphasis on explainable AI and uncertainty quantification;
 - **Functional data analysis**, covering methodology, theory, and applications;
 - **Statistical genomics**, including single-cell multi-omics and spatial transcriptomics;
-- Interdisciplinary research bridging data science with other fields.
+- **Interdisciplinary research** bridging data science with other fields.
 
 📢📢 <span style="color:red;"> Prospective graduate and undergraduate students are welcome to join my group. We are also seeking a postdoctoral fellow. See Opportunities for details.
 
@@ -37,13 +37,13 @@ The research group I lead focuses on the following areas:
 # 📘 Publications 
 Group members (current and past) are in **bold**; + : co-first authors with equal contribution; * : corresponding authors with equal contribution
 
-## Statistical Machine Learning and Functional Data
+## (a) Statistical Machine Learning and Functional Data
 - **Siyuan Jiang+**, **Yihan Hu+**, **Wenjie Li** and **Pengcheng Zeng***. (2026) DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification. (<font color=Blue>``International Conference on Learning Representations (ICLR) 2026, CCF-A``</font>).
 - **Wenjie Li**, Jiawei Li, **Pengcheng Zeng***, Christian Schroeder de Witt, Ameya Prabhu, Amartya Sanyal*. (2026) Delta-Influence: Unlearning Poisons via Influence Functions. Transactions on Machine Learning Research (TMLR). Accepted.
 - Lin Tang+, **Pengcheng Zeng+**, Jian Qing Shi* and Won-Seok Kim. (2022) Model-based joint curve registration and classification. Journal of Applied Statistics. https://doi.org/10.1080/02664763.2021.2 023118.
 - **Pengcheng Zeng**, Jian Qing Shi* and Won-Seok Kim. (2019) Simultaneous registration and clustering for multi-dimensional functional data. Journal of Computational and Graphical Statistics; 4(28): 943-953. 
 
-## Statistical Genetics and Bioinformatics
+## (b) Statistical Genetics and Bioinformatics
 - **Hongyao Li+**, **Yunrui Liu+** and **Pengcheng Zeng***. (2025) Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data. Bioinformatics; 41(12):btaf639.
 - **Pengcheng Zeng*** and Zhixiang Lin. (2024) scICML: Information-theoretic Co-clustering-based Multi-view Learning for the Integrative Analysis of Single-cell Multi-omics data. IEEE/ACM Transactions on Computational Biology and Bioinformatics. DOI : 10.1109/TCBB.2023.3305989. (CCF-B)
 - **Pengcheng Zeng** and Zhixiang Lin*. (2023) scAWMV: an adaptively weighted multi-view learning framework for the integrative analysis of parallel scRNA-seq and scATAC-seq data. Bioinformatics; 39(1): btac739.
@@ -51,7 +51,7 @@ Group members (current and past) are in **bold**; + : co-first authors with equa
 - **Pengcheng Zeng** and Zhixiang Lin*. (2021) coupleCoC+: an information-theoretic co-clustering-based transfer learning framework for the integrative analysis of single-cell genomic data. PLoS Computational Biology; 17 (6): e1009064.
 - **Pengcheng Zeng**, Jiaxuan Wangwu and Zhixiang Lin*. (2021) Coupled co-clustering-based unsupervised transfer learning for the integrative analysis of single-cell genomic data. Briefings in Bioinformatics; 22(4):bbaa34. 
 
-## Data Science and Interdisciplinary Studies
+## (c) Data Science and Interdisciplinary Studies
 - Chen Jason Zhang+, **Yunrui Liu+**, **Pengcheng Zeng***, Ting Wu, Lei Chen, Pan Hui and Fei Hao. (2024) Similarity-driven and Task-driven Models for Diversity of Opinion in Crowdsourcing Markets. The International Journal on Very Large Data Bases (The VLDB Journal); 33: 1377–1398. https://doi.org/10.1007/s00778-024-00853-0. (CCF-A)
 - Won-Seok Kim+, **Pengcheng Zeng+**, Jian Qing Shi*, Youngjo Lee and Nam-Jong Paik. (2017) Semi-automatic Tracking, Smoothing and Segmentation of Hyoid Bone Motion from Videoflfluoroscopic Swallowing Study. PLoS ONE; 12(11): e0188684. https://doi.org/10.1371/journal. 
 
@@ -62,7 +62,7 @@ Group members (current and past) are in **bold**; + : co-first authors with equa
 - Benyan Zhang+, ShuHong Yang+, LingYun Wang+, **TianLu Zhu**, Yu Mei, Ying Zhan , XiaoQian Huang, Huan Zhang, Fei Yuan, **Pengcheng Zeng***, Jinling Jiang*, Jun Zhang*.   Distribution Pattern of Residual Tumour Cells in the Tumour Bed: An Innovative Efficacy Evaluation Method for Advanced Gastric Cancer after Preoperative Therapy. 
 
 # 👥 Group Members
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autumn Outing 2025</div><img src='images/group_photo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autumn 2025</div><img src='images/group_photo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - Postdoctoral Fellow
