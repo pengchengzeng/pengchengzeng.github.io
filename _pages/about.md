@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍🎓 About Me
-I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University. I received my Ph.D. in Statistics from Newcastle University, UK, in 2018, under the supervision of [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清). My research interests include statistical machine learning, artificial intelligence, and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
+I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University (上海科技大学). I received my Ph.D. in Statistics from Newcastle University, UK, in 2018, under the supervision of [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清). My research interests include statistical machine learning, artificial intelligence, and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
 
 The research group I lead focuses on the following areas:
 - **AI and statistics**, with an emphasis on explainable AI and uncertainty quantification;
 - **Functional data analysis**, covering methodology, theory, and applications;
 - **Statistical genomics**, including single-cell multi-omics and spatial transcriptomics;
-- **Interdisciplinary research** bridging data science with other fields.
+- Interdisciplinary research bridging **data science** with other fields.
 
 📢📢 <span style="color:red;"> Prospective graduate and undergraduate students are welcome to join my group. We are also seeking a postdoctoral fellow. See Opportunities for details.
 
@@ -96,9 +96,9 @@ Group members (current and past) are in **bold**; + : co-first authors with equa
 
 ### Research Assistants
 
-  Yihan Hu (2024-2025, next position: master in data science, Columbia University)
+  Yihan Hu (2024-2025, next position: MS in data science, Columbia University)
   
-  Tianlu Zhu (2023-2024, next position: master in data science, University of California, San Franciso (UCSF))
+  Tianlu Zhu (2023-2024, next position: MS in data science, University of California, San Franciso (UCSF))
 
 # 👨‍🏫 Teaching
 ## Master courses
@@ -115,7 +115,7 @@ Group members (current and past) are in **bold**; + : co-first authors with equa
 - *2024.01* “Pearl Elite Talents of 2024” of Shanghai City
 - *2024.01* “Excellent Faculty of 2023” of ShanghaiTech University
 - *2023.01* “Overseas Leading Talents of 2023” of Shanghai City
-- *2014.09*  Ph.D. Full Scholarship
+- *2014.09*  Full Ph.D. Studentship funded by UK
 
 # 🎓 Experiences
 - *2021.12 – present*, Assistant Professor, Institute of Mathematical Sciences, ShanghaiTech University, Shanghai, China
