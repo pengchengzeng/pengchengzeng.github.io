@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍🎓 About Me
-I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University. My research focuses on statistical machine learning, artificial intelligence, and biomedical big data analytics. I received my Ph.D. in Statistics from Newcastle University, UK, in 2018, under the supervision of [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清).
+I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University. I received my Ph.D. in Statistics from Newcastle University, UK, in 2018, under the supervision of [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清). My research interests include statistical machine learning, artificial intelligence, and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
 
 The research group I lead focuses on the following areas:
 - **AI and statistics**, with an emphasis on explainable AI and uncertainty quantification;
 - **Functional data analysis**, covering methodology, theory, and applications;
 - **Statistical genomics**, including single-cell multi-omics and spatial transcriptomics;
-- Interdisciplinary research bridging **data science** with other fields.
+- Interdisciplinary research bridging data science with other fields.
 
 📢📢 <span style="color:red;"> Prospective graduate and undergraduate students are welcome to join my group. We are also seeking a postdoctoral fellow. See Opportunities for details.
 
@@ -32,10 +32,10 @@ The research group I lead focuses on the following areas:
 
 # 🔥 News
 - *2026.01*: Our paper entitled "DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification" was accepted by ICLR 2026.
-- *2025.12*: Our paper entitled "Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data" was accepted by Bioinformatics.
+- *2025.12*: Our paper entitled "Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data" was accepted by Bioinformatics. The senior student Hongyao Li is the first author.
 
 # 📘 Publications 
-**boldface** : group members; + : co-first authors with equal contribution; * : corresponding authors with equal contribution
+Group members (current and past) are in **bold**; + : co-first authors with equal contribution; * : corresponding authors with equal contribution
 
 ## Statistical Machine Learning and Functional Data
 - **Siyuan Jiang+**, **Yihan Hu+**, **Wenjie Li** and **Pengcheng Zeng***. (2026) DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification. (<font color=Blue>``International Conference on Learning Representations (ICLR) 2026, CCF-A``</font>).
@@ -67,7 +67,7 @@ The research group I lead focuses on the following areas:
   
 - Postdoctoral Fellow
   
-  Tao Ding
+  Tao Ding (ShanghaiTech University, 2024 Spring)
   
 - PhD students
   
@@ -93,10 +93,12 @@ The research group I lead focuses on the following areas:
 </div>
 
 ## *Alumni*
+
+### Research Assistants
+
+  Yihan Hu (2024-2025, next position: master in data science, Columbia University)
   
-  Yihan Hu (RA, next position: master in)
-  
-  Tianlu Zhu (RA, next position: master in )
+  Tianlu Zhu (2023-2024, next position: master in data science, University of California, San Franciso (UCSF))
 
 # 👨‍🏫 Teaching
 ## Master courses
