@@ -18,17 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍🎓 About Me
-I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University (上海科技大学). I received my Ph.D. in Statistics from Newcastle University, UK, in 2018, under the supervision of [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清). My research interests include statistical machine learning, artificial intelligence, and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
+I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University (上海科技大学). My research interests include statistical machine learning, artificial intelligence, and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
 
 The research group I lead focuses on the following areas:
 - **AI and statistics**, with an emphasis on explainable AI and uncertainty quantification;
 - **Functional data analysis**, covering methodology, theory, and applications;
 - **Statistical genomics**, including single-cell multi-omics and spatial transcriptomics;
-- Interdisciplinary research bridging **data science** with other fields.
+- **Data science**, emphasizing interdisciplinary research in collaboration with other fields.
 
-📢📢 <span style="color:red;"> Prospective graduate and undergraduate students are welcome to join my group. We are also seeking a postdoctoral fellow. See Opportunities for details.
+📢📢 <span style="color:red;">  We are seeking a postdoctoral fellow; prospective graduate and undergraduate students are also welcome to join my group. See Opportunities for details.
 
-📢📢 <span style="color:green;"> Collaborations welcome—especially with researchers in biomedicine (genomics, spatial omics, etc), data science and AI.
+📢📢 <span style="color:green;"> Collaborations are welcome — particularly with researchers in biomedicine (genomics, spatial omics, etc.), data science, and AI.
 
 # 🔥 News
 - *2026.01*: Our paper entitled "DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification" was accepted by ICLR 2026.
@@ -43,7 +43,7 @@ Group members (current and past) are in **bold**; + : co-first authors with equa
 - Lin Tang+, **Pengcheng Zeng+**, Jian Qing Shi* and Won-Seok Kim. (2022) Model-based joint curve registration and classification. Journal of Applied Statistics. https://doi.org/10.1080/02664763.2021.2 023118.
 - **Pengcheng Zeng**, Jian Qing Shi* and Won-Seok Kim. (2019) Simultaneous registration and clustering for multi-dimensional functional data. Journal of Computational and Graphical Statistics; 4(28): 943-953. 
 
-## (b) Statistical Genetics and Bioinformatics
+## (b) Statistical Genomics and Computational Biology
 - **Hongyao Li+**, **Yunrui Liu+** and **Pengcheng Zeng***. (2025) Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data. Bioinformatics; 41(12):btaf639.
 - **Pengcheng Zeng*** and Zhixiang Lin. (2024) scICML: Information-theoretic Co-clustering-based Multi-view Learning for the Integrative Analysis of Single-cell Multi-omics data. IEEE/ACM Transactions on Computational Biology and Bioinformatics. DOI : 10.1109/TCBB.2023.3305989. (CCF-B)
 - **Pengcheng Zeng** and Zhixiang Lin*. (2023) scAWMV: an adaptively weighted multi-view learning framework for the integrative analysis of parallel scRNA-seq and scATAC-seq data. Bioinformatics; 39(1): btac739.
@@ -119,14 +119,11 @@ Group members (current and past) are in **bold**; + : co-first authors with equa
 
 # 🎓 Experiences
 - *2021.12 – present*, Assistant Professor, Institute of Mathematical Sciences, ShanghaiTech University, Shanghai, China
-- *2019.09 – 2021.11*, Postdoctoral Fellow, Department of Statistics, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *2019.09 – 2021.11*, Postdoctoral Fellow, Advisor: [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/peoples/zxlin/) , Department of Statistics, The Chinese University of Hong Kong, Hong Kong SAR, China
 - *2018.05 – 2019.08*, Data Scientist, Bright Dream Robotics Co., Ltd., Foshan, China
-- *2018.07*, Ph.D. (STATISTICS), School of Mathematics & Statistics, Newcastle University, Newcastle upon Tyne, UK
+- *2018.07*, Ph.D. (STATISTICS), Advisor: [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清)), School of Mathematics & Statistics, Newcastle University, Newcastle upon Tyne, UK
 
 # 🔍 Opportunities
-## Graduate and Undergraduate Students
-For students interested in joining the research group, please contact me to discuss.
-
 ## Postdoctoral Researcher (New Post)
 We seek a postdoctoral fellow to work on methodology and theory in explainable AI and uncertainty quantification, or statistical modeling in single-cell multi-omics and spatial transcriptomics. Prior experience in machine learning, statistics, or computational biology is highly preferred. Strong programming skills are highly valued.
 
@@ -139,3 +136,6 @@ To apply, please send the following items to pchzeng at shanghaitech dot edu dot
 - Research statement
 - Teaching statement
 - Contact information for four references
+
+## Graduate and Undergraduate Students
+For students interested in joining the research group, please contact me to discuss.
