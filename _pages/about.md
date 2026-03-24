@@ -31,15 +31,15 @@ The research group I lead focuses on the following areas:
 📢📢 <span style="color:green;"> Collaborations are welcome — particularly with researchers in biomedicine (genomics, spatial omics, etc.), data science, and AI.
 
 # 🔥 News
-- *2026.03*: Our paper entitled "GALA: A Unified Landmark-Free Framework for Coarse-to-Fine Spatial Alignment Across Resolutions and Modalities in Spatial Transcriptomics" was accepted by Briefings in Bioinformatics.
-- *2026.01*: Our paper entitled "DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification" was accepted by ICLR 2026.
-- *2025.12*: Our paper entitled "Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data" was accepted by Bioinformatics. The senior student Hongyao Li is the first author.
+- *2026.03*: Our paper entitled "GALA: A Unified Landmark-Free Framework for Coarse-to-Fine Spatial Alignment Across Resolutions and Modalities in Spatial Transcriptomics" was accepted by *Briefings in Bioinformatics*.
+- *2026.01*: Our paper entitled "DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification" was accepted by *ICLR 2026*.
+- *2025.12*: Our paper entitled "Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data" was accepted by *Bioinformatics*. The senior student Hongyao Li is the first author.
 
 # 📘 Publications 
 Group members (current and past) are in **bold**; + : co-first authors with equal contribution; * : corresponding authors with equal contribution
 
 ## (a) Statistical Genomics and Computational Biology
-- **Tao Ding** and **Pengcheng Zeng***. (2026) GALA: A Unified Landmark-Free Framework for Coarse-to-Fine Spatial Alignment Across Resolutions and Modalities in Spatial Transcriptomics. *<font color=Blue>``Briefings in Bioinformatics``</font>* (Accepted). [[pdf]](https://www.biorxiv.org/content/10.64898/2025.11.29.691288v2.full.pdf) [[code]](https://github.com/TaoDing2/GALA) 
+- **Tao Ding** and **Pengcheng Zeng***. GALA: A Unified Landmark-Free Framework for Coarse-to-Fine Spatial Alignment Across Resolutions and Modalities in Spatial Transcriptomics. *Briefings in Bioinformatics*, 2026(Accepted). [[pdf]](https://www.biorxiv.org/content/10.64898/2025.11.29.691288v2.full.pdf) [[code]](https://github.com/TaoDing2/GALA) 
 - **Hongyao Li+**, **Yunrui Liu+** and **Pengcheng Zeng***. (2025) Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data. <font color=Blue>``Bioinformatics``</font>; 41(12):btaf639.
 - **Pengcheng Zeng*** and Zhixiang Lin. (2024) scICML: Information-theoretic Co-clustering-based Multi-view Learning for the Integrative Analysis of Single-cell Multi-omics data. <font color=Blue>``IEEE/ACM Transactions on Computational Biology and Bioinformatics``</font>. DOI : 10.1109/TCBB.2023.3305989. (CCF-B)
 - **Pengcheng Zeng** and Zhixiang Lin*. (2023) scAWMV: an adaptively weighted multi-view learning framework for the integrative analysis of parallel scRNA-seq and scATAC-seq data. <font color=Blue>``Bioinformatics``</font>; 39(1): btac739.
