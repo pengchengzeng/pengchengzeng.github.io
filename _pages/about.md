@@ -22,8 +22,8 @@ I am currently a tenure-track Assistant Professor and Principal Investigator (PI
 
 The research group I lead focuses on the following areas:
 - **AI and statistics**, with an emphasis on explainable AI and uncertainty quantification;
-- **Functional data analysis**, covering methodology, theory, and applications;
 - **Statistical genomics**, including single-cell multi-omics and spatial transcriptomics;
+- **Functional data analysis**, covering methodology, theory, and applications;
 - **Data science**, emphasizing interdisciplinary research in collaboration with other fields.
 
 📢📢 <span style="color:red;">  We are seeking a postdoctoral fellow; prospective graduate and undergraduate students are also welcome to join my group. See Opportunities for details.
@@ -31,34 +31,35 @@ The research group I lead focuses on the following areas:
 📢📢 <span style="color:green;"> Collaborations are welcome — particularly with researchers in biomedicine (genomics, spatial omics, etc.), data science, and AI.
 
 # 🔥 News
+- - *2026.03*: Our paper entitled "DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification" was accepted by ICLR 2026.
 - *2026.01*: Our paper entitled "DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification" was accepted by ICLR 2026.
 - *2025.12*: Our paper entitled "Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data" was accepted by Bioinformatics. The senior student Hongyao Li is the first author.
 
 # 📘 Publications 
 Group members (current and past) are in **bold**; + : co-first authors with equal contribution; * : corresponding authors with equal contribution
 
-## (a) Statistical Machine Learning and Functional Data
-- **Siyuan Jiang+**, **Yihan Hu+**, **Wenjie Li** and **Pengcheng Zeng***. (2026) DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification. (<font color=Blue>``International Conference on Learning Representations (ICLR) 2026, CCF-A``</font>).
-- **Wenjie Li**, Jiawei Li, **Pengcheng Zeng***, Christian Schroeder de Witt, Ameya Prabhu, Amartya Sanyal*. (2026) Delta-Influence: Unlearning Poisons via Influence Functions. Transactions on Machine Learning Research (TMLR). Accepted.
-- Lin Tang+, **Pengcheng Zeng+**, Jian Qing Shi* and Won-Seok Kim. (2022) Model-based joint curve registration and classification. Journal of Applied Statistics. https://doi.org/10.1080/02664763.2021.2 023118.
-- **Pengcheng Zeng**, Jian Qing Shi* and Won-Seok Kim. (2019) Simultaneous registration and clustering for multi-dimensional functional data. Journal of Computational and Graphical Statistics; 4(28): 943-953. 
+## (a) Statistical Genomics and Computational Biology
+- **Tao Ding** and **Pengcheng Zeng***. (2026) GALA: A Unified Landmark-Free Framework for Coarse-to-Fine Spatial Alignment Across Resolutions and Modalities in Spatial Transcriptomics. (<font color=Blue>``Briefings in Bioinformatics``</font>) (Accepted). https://www.biorxiv.org/content/10.64898/2025.11.29.691288v1
+- **Hongyao Li+**, **Yunrui Liu+** and **Pengcheng Zeng***. (2025) Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data. (<font color=Blue>``Bioinformatics``</font>) ; 41(12):btaf639.
+- **Pengcheng Zeng*** and Zhixiang Lin. (2024) scICML: Information-theoretic Co-clustering-based Multi-view Learning for the Integrative Analysis of Single-cell Multi-omics data. (<font color=Blue>``IEEE/ACM Transactions on Computational Biology and Bioinformatics``</font>) . DOI : 10.1109/TCBB.2023.3305989. (CCF-B)
+- **Pengcheng Zeng** and Zhixiang Lin*. (2023) scAWMV: an adaptively weighted multi-view learning framework for the integrative analysis of parallel scRNA-seq and scATAC-seq data. (<font color=Blue>``Bioinformatics``</font>) ; 39(1): btac739.
+- Yuanyuan Ma, Zexuan Sun, **Pengcheng Zeng**, Wenyu Zhang and Zhixiang Lin*. (2022) JSNMF enables effective and accurate integrative analysis of single-cell multi-omics data. (<font color=Blue>``Briefings in Bioinformatics``</font>) ; 23(3):bbac105.
+- **Pengcheng Zeng** and Zhixiang Lin*. (2021) coupleCoC+: an information-theoretic co-clustering-based transfer learning framework for the integrative analysis of single-cell genomic data. (<font color=Blue>``PLoS Computational Biology``</font>) ; 17 (6): e1009064.
+- **Pengcheng Zeng**, Jiaxuan Wangwu and Zhixiang Lin*. (2021) Coupled co-clustering-based unsupervised transfer learning for the integrative analysis of single-cell genomic data. (<font color=Blue>``Briefings in Bioinformatics``</font>) ; 22(4):bbaa34. 
 
-## (b) Statistical Genomics and Computational Biology
-- **Hongyao Li+**, **Yunrui Liu+** and **Pengcheng Zeng***. (2025) Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data. Bioinformatics; 41(12):btaf639.
-- **Pengcheng Zeng*** and Zhixiang Lin. (2024) scICML: Information-theoretic Co-clustering-based Multi-view Learning for the Integrative Analysis of Single-cell Multi-omics data. IEEE/ACM Transactions on Computational Biology and Bioinformatics. DOI : 10.1109/TCBB.2023.3305989. (CCF-B)
-- **Pengcheng Zeng** and Zhixiang Lin*. (2023) scAWMV: an adaptively weighted multi-view learning framework for the integrative analysis of parallel scRNA-seq and scATAC-seq data. Bioinformatics; 39(1): btac739.
-- Yuanyuan Ma, Zexuan Sun, **Pengcheng Zeng**, Wenyu Zhang and Zhixiang Lin*. (2022) JSNMF enables effective and accurate integrative analysis of single-cell multi-omics data. Briefings in Bioinformatics; 23(3):bbac105.
-- **Pengcheng Zeng** and Zhixiang Lin*. (2021) coupleCoC+: an information-theoretic co-clustering-based transfer learning framework for the integrative analysis of single-cell genomic data. PLoS Computational Biology; 17 (6): e1009064.
-- **Pengcheng Zeng**, Jiaxuan Wangwu and Zhixiang Lin*. (2021) Coupled co-clustering-based unsupervised transfer learning for the integrative analysis of single-cell genomic data. Briefings in Bioinformatics; 22(4):bbaa34. 
+## (b) Statistical Machine Learning and Functional Data
+- **Siyuan Jiang+**, **Yihan Hu+**, **Wenjie Li** and **Pengcheng Zeng***. (2026) DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification. (<font color=Blue>``International Conference on Learning Representations (ICLR) 2026, CCF-A``</font>).
+- **Wenjie Li**, Jiawei Li, **Pengcheng Zeng***, Christian Schroeder de Witt, Ameya Prabhu, Amartya Sanyal*. (2026) Delta-Influence: Unlearning Poisons via Influence Functions. (<font color=Blue>``Transactions on Machine Learning Research (TMLR)``</font>) . Accepted.
+- Lin Tang+, **Pengcheng Zeng+**, Jian Qing Shi* and Won-Seok Kim. (2022) Model-based joint curve registration and classification. (<font color=Blue>``Journal of Applied Statistics``</font>) . https://doi.org/10.1080/02664763.2021.2 023118.
+- **Pengcheng Zeng**, Jian Qing Shi* and Won-Seok Kim. (2019) Simultaneous registration and clustering for multi-dimensional functional data. (<font color=Blue>``Journal of Computational and Graphical Statistics``</font>) ; 4(28): 943-953. 
 
 ## (c) Data Science and Interdisciplinary Studies
-- Chen Jason Zhang+, **Yunrui Liu+**, **Pengcheng Zeng***, Ting Wu, Lei Chen, Pan Hui and Fei Hao. (2024) Similarity-driven and Task-driven Models for Diversity of Opinion in Crowdsourcing Markets. The International Journal on Very Large Data Bases (The VLDB Journal); 33: 1377–1398. https://doi.org/10.1007/s00778-024-00853-0. (CCF-A)
-- Won-Seok Kim+, **Pengcheng Zeng+**, Jian Qing Shi*, Youngjo Lee and Nam-Jong Paik. (2017) Semi-automatic Tracking, Smoothing and Segmentation of Hyoid Bone Motion from Videoflfluoroscopic Swallowing Study. PLoS ONE; 12(11): e0188684. https://doi.org/10.1371/journal. 
+- Chen Jason Zhang+, **Yunrui Liu+**, **Pengcheng Zeng***, Ting Wu, Lei Chen, Pan Hui and Fei Hao. (2024) Similarity-driven and Task-driven Models for Diversity of Opinion in Crowdsourcing Markets. (<font color=Blue>``The International Journal on Very Large Data Bases (The VLDB Journal); 33: 1377–1398. https://doi.org/10.1007/s00778-024-00853-0. (<font color=Blue>``(CCF-A)
+- Won-Seok Kim+, **Pengcheng Zeng+**, Jian Qing Shi*, Youngjo Lee and Nam-Jong Paik. (2017) Semi-automatic Tracking, Smoothing and Segmentation of Hyoid Bone Motion from Videoflfluoroscopic Swallowing Study. (<font color=Blue>``PLoS ONE``</font>) ; 12(11): e0188684. https://doi.org/10.1371/journal. 
 
 ## *Preprints*
 - **Xinyang Xiong+**, **Siyuan Jiang+** and **Pengcheng Zeng***. (arXiv 2026) NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data arXiv:2602.03169.
 - **Pengcheng Zeng+*** and **Siyuan Jiang+**. (arXiv 2025) Semi-parametric Functional Classification via Path Signatures Logistic Regression. https://arxiv.org/abs/2507.06637.
-- **Tao Ding** and **Pengcheng Zeng***. (arXiv 2025) A Unified Landmark-Free Framework for Coarse-to-Fine Spatial Alignment Across Resolutions and Modalities in Spatial Transcriptomics. https://www.biorxiv.org/content/10.64898/2025.11.29.691288v1
 - Benyan Zhang+, ShuHong Yang+, LingYun Wang+, **TianLu Zhu**, Yu Mei, Ying Zhan , XiaoQian Huang, Huan Zhang, Fei Yuan, **Pengcheng Zeng***, Jinling Jiang*, Jun Zhang*.   Distribution Pattern of Residual Tumour Cells in the Tumour Bed: An Innovative Efficacy Evaluation Method for Advanced Gastric Cancer after Preoperative Therapy. 
 
 # 👥 Group Members
@@ -119,9 +120,9 @@ Group members (current and past) are in **bold**; + : co-first authors with equa
 
 # 🎓 Experiences
 - *2021.12 – present*, Assistant Professor, Institute of Mathematical Sciences, ShanghaiTech University, Shanghai, China
-- *2019.09 – 2021.11*, Postdoctoral Fellow, Advisor: [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/peoples/zxlin/) , Department of Statistics, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *2019.09 – 2021.11*, Postdoctoral Fellow, Advisor: [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/peoples/zxlin/) , Department of Statistics, The Chinese University of Hong Kong, China
 - *2018.05 – 2019.08*, Data Scientist, Bright Dream Robotics Co., Ltd., Foshan, China
-- *2018.07*, Ph.D. (STATISTICS), Advisor: [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清)), School of Mathematics & Statistics, Newcastle University, Newcastle upon Tyne, UK
+- *2018.07*, Ph.D. (STATISTICS), Advisor: [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清), School of Mathematics & Statistics, Newcastle University,  UK
 
 # 🔍 Opportunities
 ## Postdoctoral Researcher (New Post)
