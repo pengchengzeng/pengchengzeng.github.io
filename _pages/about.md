@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍🎓 About Me
-I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University (上海科技大学). My research interests include statistical machine learning, artificial intelligence, and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
+I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University (上海科技大学). My research interests include statistical machine learning, AI, and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
 
-The research group I lead focuses on the following areas:
+Our research group develops machine learning and statistical methods grounded in theory and interpretability to tackle cutting-edge challenges in biomedical big data, including but not limited to genomics and clinical data. Our current focus areas are:
 - **AI and statistics**, with an emphasis on explainable AI and uncertainty quantification;
-- **Statistical genomics**, including single-cell multi-omics and spatial transcriptomics;
-- **Functional data analysis**, covering methodology, theory, and applications;
-- **Data science**, emphasizing interdisciplinary research in collaboration with other fields.
+- **Statistical genomics**, encompassing single-cell multi-omics and spatial transcriptomics;
+- **Functional data analysis**, spanning methodology, theory, and applications;
+- **Data science**, with a focus on interdisciplinary collaboration across diverse fields.
 
 📢📢 <span style="color:red;">  We are seeking a postdoctoral fellow; prospective graduate and undergraduate students are also welcome to join my group. See Opportunities for details.
 
@@ -122,7 +122,7 @@ Group members (current and past) are in **bold**; <sup>+</sup> : co-first author
 - *2021.12 – present*, Assistant Professor, Institute of Mathematical Sciences, ShanghaiTech University, Shanghai, China
 - *2019.09 – 2021.11*, Postdoctoral Fellow, Advisor: [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/peoples/zxlin/) , Department of Statistics, The Chinese University of Hong Kong, China
 - *2018.05 – 2019.08*, Data Scientist, Bright Dream Robotics Co., Ltd., Foshan, China
-- *2018.07*, Ph.D. (STATISTICS), Advisor: [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清), School of Mathematics & Statistics, Newcastle University,  UK
+- *2018.07*, Ph.D. (STATISTICS), Advisor: [Prof. Jian Qing Shi](https://www.sustech.edu.cn/zh/faculties/shijianqing.html) (史建清), School of Mathematics and Statistics, Newcastle University,  UK
 
 # 🔍 Opportunities
 ## Postdoctoral Researcher (New Post)
