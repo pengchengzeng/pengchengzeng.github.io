@@ -26,7 +26,7 @@ Our research group develops machine learning and statistical methods grounded in
 - **Functional data analysis**, spanning methodology, theory, and applications;
 - **Data science**, with a focus on interdisciplinary collaboration across diverse fields.
 
-📢📢 <span style="color:red;">  We are seeking a postdoctoral fellow; prospective graduate and undergraduate students are also welcome to join my group. See Opportunities for details.
+📢📢 <span style="color:red;">  We are seeking a postdoctoral fellow; prospective graduate and undergraduate students are also welcome to join my group. See [[Opportunities]](https://pengchengzeng.github.io/#-opportunities) for details.
 
 📢📢 <span style="color:green;"> Collaborations are welcome — particularly with researchers in biomedicine (genomics, spatial omics, etc.), data science, and AI.
 
