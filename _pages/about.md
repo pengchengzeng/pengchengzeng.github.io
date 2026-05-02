@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍🎓 About Me
-I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University (上海科技大学). My research interests include statistical machine learning, AI, and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
+I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University (上海科技大学). My research interests include statistical machine learning and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
 
-Our research group develops machine learning and statistical methods grounded in theory and interpretability to tackle cutting-edge challenges in biomedical big data, including but not limited to genomics and clinical data. Our current focus areas are:
-- **AI + statistics**, focusing on explainable AI, uncertainty quantification, and deep learning solutions to classical statistical problems;
-- **Functional data analysis**, spanning methodology, theory, and applications;
-- **Statistical genomics**, encompassing single-cell multi-omics and spatial transcriptomics;
-- **Data science**, with a focus on interdisciplinary collaboration across diverse fields.
+The research of my group focuses on mathematical statistical modeling and artificial intelligence methods, theories, and applications for biological and medical big data. We place particular emphasis on genomics data, curve data, and clinical data. Our current core research areas include:
+- **AI + Statistics** - with emphasis on explainable AI, uncertainty quantification, and deep learning solutions to classical statistical problems;
+- **Functional Data Analysis** - covering methodology, theory, and applications;
+- **Statistical Genomics** - including single-cell multi-omics and spatial transcriptomics;
+- **Data Science** - with a strong focus on interdisciplinary collaboration across diverse fields.
 
 📢📢 <span style="color:red;">  We are seeking a postdoctoral fellow; prospective graduate and undergraduate students are also welcome to join my group. See [[Opportunities]](https://pengchengzeng.github.io/#-opportunities) for details.
 
