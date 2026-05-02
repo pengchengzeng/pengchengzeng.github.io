@@ -20,7 +20,7 @@ redirect_from:
 # 👨‍🎓 About Me
 I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University (上海科技大学). My research interests include statistical machine learning and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
 
-The research of my group focuses on mathematical statistical modeling and artificial intelligence methods, theories, and applications for biological and medical big data. We place particular emphasis on genomics data, curve data, and clinical data. Our current core research areas include:
+My research group is dedicated to the methods, theories, and applications of both mathematical statistical modeling and artificial intelligence for biological and medical big data, with a special focus on genomics data, curve data, and clinical data. Our current core research areas include:
 - **AI + Statistics** - with emphasis on explainable AI, uncertainty quantification, and deep learning solutions to classical statistical problems;
 - **Functional Data Analysis** - covering methodology, theory, and applications;
 - **Statistical Genomics** - including single-cell multi-omics and spatial transcriptomics;
