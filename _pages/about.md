@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍🎓 About Me
-I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University (上海科技大学). My research interests include statistical machine learning and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
+I am currently a tenure-track Assistant Professor and Principal Investigator (PI) at the Institute of Mathematical Sciences, ShanghaiTech University (上海科技大学). My research interests include statistical machine learning, AI, and biomedical big data analytics. I am PI of a National Natural Science Foundation of China (NSFC) Youth Science Fund project.
 
-My research group is dedicated to the methods, theories, and applications of both mathematical statistical modeling and artificial intelligence for biological and medical big data, with a special focus on genomics data, curve data, and clinical data. Our current core research areas include:
+My research group is dedicated to the methods, theories, and applications of both mathematical statistical modeling and artificial intelligence for biological and medical big data, with a special focus on genomics data, functional/curve data, and clinical data. Our current core research areas include:
 - **AI + Statistics** - with emphasis on explainable AI, uncertainty quantification, and deep learning solutions to classical statistical problems;
 - **Functional Data Analysis** - covering methodology, theory, and applications;
 - **Statistical Genomics** - including single-cell multi-omics and spatial transcriptomics;
@@ -31,13 +31,13 @@ My research group is dedicated to the methods, theories, and applications of bot
 📢📢 <span style="color:green;"> Collaborations are welcome — particularly with researchers in biomedicine (genomics, spatial omics, etc.), data science, and AI.
 
 # 🔥 News
-- *2026.05*: Our paper on "AI for joint functional registration and clustering" was accepted by *ICML 2026*.
+- *2026.05*: Our paper on "Deep learning for joint registration and clustering of functional data" was accepted by *ICML 2026*.
 - *2026.03*: Our paper on "Alignment for Spatial Transcriptomics" was accepted by *Briefings in Bioinformatics*.
-- *2026.01*: Our paper on "AI for joint functional registration and classification" was accepted by *ICLR 2026*.
+- *2026.01*: Our paper on "Deep learning for joint registration and classification of functional data" was accepted by *ICLR 2026*.
 - *2025.12*: Our paper on "Transfer learning for single-cell multi-omics data" was accepted by *Bioinformatics*. The senior student Hongyao Li is the first author.
 
 # 📘 Publications 
-Group members (current and past) are in **bold**; <sup>+</sup> : co-first authors with equal contribution; <sup>#</sup> : corresponding authors with equal contribution
+Group members (current and past) are in **bold**; <sup>+</sup> : first authors with equal contribution; <sup>#</sup> : corresponding authors with equal contribution
 
 ## (a) Statistical Machine Learning and Functional Data
 - **Xinyang Xiong**<sup>+</sup>, **Siyuan Jiang**<sup>+</sup> and **Pengcheng Zeng**<sup>#</sup>. NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data. *<font color=Blue>``International Conference on Machine Learning (ICML)``</font>*(Accepted),  2026. [[PDF]](https://arxiv.org/pdf/2602.03169) [[CODE]](https://anonymous.4open.science/r/NeuralFLoC-FEC8)
