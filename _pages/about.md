@@ -31,10 +31,11 @@ My research group is dedicated to the methods, theories, and applications of bot
 📢📢 <span style="color:green;"> Collaborations are welcome — particularly with researchers in biomedicine (genomics, spatial omics, etc.), data science, and AI.
 
 # 🔥 News
-- *2026.05*: Our paper on "Deep learning for joint registration and clustering of functional data" was accepted by *ICML 2026*.
-- *2026.03*: Our paper on "Alignment for Spatial Transcriptomics" was accepted by *Briefings in Bioinformatics*.
-- *2026.01*: Our paper on "Deep learning for joint registration and classification of functional data" was accepted by *ICLR 2026*.
-- *2025.12*: Our paper on "Transfer learning for single-cell multi-omics data" was accepted by *Bioinformatics*. The senior student Hongyao Li is the first author.
+- *2026.05.21*: Congratulations to Li Wenjie from the research group for successfully passing his master's thesis defense.
+- *2026.05.01*: Our paper on "Deep learning for joint registration and clustering of functional data" was accepted by *ICML 2026*.
+- *2026.03.24*: Our paper on "Alignment for Spatial Transcriptomics" was accepted by *Briefings in Bioinformatics*.
+- *2026.01.26*: Our paper on "Deep learning for joint registration and classification of functional data" was accepted by *ICLR 2026*.
+- *2025.11.21*: Our paper on "Transfer learning for single-cell multi-omics data" was accepted by *Bioinformatics*. The senior student Hongyao Li is the first author.
 
 # 📘 Publications 
 Group members (current and past) are in **bold**; <sup>+</sup> : first authors with equal contribution; <sup>#</sup> : corresponding authors with equal contribution
