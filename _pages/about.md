@@ -61,7 +61,7 @@ Group members (current and past) are in **bold**; <sup>+</sup> : first authors w
 - Won-Seok Kim<sup>+</sup>, **Pengcheng Zeng**<sup>+</sup>, Jian Qing Shi<sup>#</sup>, Youngjo Lee and Nam-Jong Paik. Semi-automatic Tracking, Smoothing and Segmentation of Hyoid Bone Motion from Videoflfluoroscopic Swallowing Study. *<font color=Blue>``PLoS ONE``</font>*; 12(11):e0188684, 2017. [[PDF]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188684) 
 
 ## *Preprints*
-- **Pengcheng Zeng**<sup>+#</sup> and **Siyuan Jiang**<sup>+</sup>. Semi-parametric Functional Classification via Path Signatures Logistic Regression with Adaptive Order Selection. arXiv, 2025. [[PDF]](https://arxiv.org/pdf/2507.06637) 
+- **Pengcheng Zeng**<sup>+#</sup> and **Siyuan Jiang**<sup>+</sup>. Semi-parametric Functional Classification via Path Signatures Logistic Regression with Adaptive Order Selection. arXiv, 2026. [[PDF]](https://arxiv.org/pdf/2507.06637) 
 - Benyan Zhang<sup>+</sup>, ShuHong Yang<sup>+</sup>, LingYun Wang<sup>+</sup>, **TianLu Zhu**, Yu Mei, Ying Zhan , XiaoQian Huang, Huan Zhang, Fei Yuan, **Pengcheng Zeng**<sup>#</sup>, Jinling Jiang<sup>#</sup>, Jun Zhang<sup>#</sup>.   Distribution Pattern of Residual Tumour Cells in the Tumour Bed: An Innovative Efficacy Evaluation Method for Advanced Gastric Cancer after Preoperative Therapy. 
 
 # 👥 Group Members
