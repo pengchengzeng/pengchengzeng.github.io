@@ -62,7 +62,7 @@ Group members (current and past) are in **bold**; <sup>+</sup> : first authors w
 
 ## *Preprints*
 - **Pengcheng Zeng**<sup>+#</sup> and **Siyuan Jiang**<sup>+</sup>. Semi-parametric Functional Classification via Path Signatures Logistic Regression with Adaptive Order Selection. arXiv, 2026. [[PDF]](https://arxiv.org/pdf/2507.06637) 
-- Benyan Zhang<sup>+</sup>, ShuHong Yang<sup>+</sup>, LingYun Wang<sup>+</sup>, **TianLu Zhu**, Yu Mei, Ying Zhan , XiaoQian Huang, Huan Zhang, Fei Yuan, **Pengcheng Zeng**<sup>#</sup>, Jinling Jiang<sup>#</sup>, Jun Zhang<sup>#</sup>.   Distribution Pattern of Residual Tumour Cells in the Tumour Bed: An Innovative Efficacy Evaluation Method for Advanced Gastric Cancer after Preoperative Therapy. 
+- BenYan Zhang<sup>+</sup>, LingYun Wang<sup>+</sup>, **TianLu Zhu**<sup>+</sup>, Yu Mei, JinLing Jiang, Ying Zhan, XiaoQian Huang, Huan Zhang, **PengCheng Zeng**#</sup>, Fei Yuan#</sup>, Jun Zhang<sup>#</sup>. Distribution Pattern of Residual Tumour Cells in the Tumour Bed: Spatial-Framework and Mutational-Landscape Based Efficacy Evaluation of Preoperative Therapy for Advanced Gastric Cancer
 
 # 👥 Group Members
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autumn 2025</div><img src='images/group_photo.jpg' alt="sym" width="100%"></div></div>
@@ -73,12 +73,12 @@ Group members (current and past) are in **bold**; <sup>+</sup> : first authors w
   Tao Ding (ShanghaiTech University, 2024 Spring)
   
 - PhD students
+
+  Xinyang Xiong (ShanghaiTech University, 2024 Fall)
   
   Siyuan Jiang (ShanghaiTech University, 2023 Fall)
   
   Yunrui Liu (ShanghaiTech University, 2023 Fall)
-
-  Xinyang Xiong (ShanghaiTech University, 2024 Fall)
   
 - Master students
 
