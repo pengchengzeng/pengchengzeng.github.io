@@ -62,7 +62,7 @@ Group members (current and past) are in **bold**; <sup>+</sup> : first authors w
 
 ## *Preprints*
 - **Pengcheng Zeng**<sup>+#</sup> and **Siyuan Jiang**<sup>+</sup>. Semi-parametric Functional Classification via Path Signatures Logistic Regression with Adaptive Order Selection. arXiv, 2026. [[PDF]](https://arxiv.org/pdf/2507.06637) 
-- BenYan Zhang<sup>+</sup>, LingYun Wang<sup>+</sup>, **TianLu Zhu**<sup>+</sup>, Yu Mei, JinLing Jiang, Ying Zhan, XiaoQian Huang, Huan Zhang, **PengCheng Zeng**#</sup>, Fei Yuan#</sup>, Jun Zhang<sup>#</sup>. Distribution Pattern of Residual Tumour Cells in the Tumour Bed: Spatial-Framework and Mutational-Landscape Based Efficacy Evaluation of Preoperative Therapy for Advanced Gastric Cancer
+- BenYan Zhang<sup>+</sup>, LingYun Wang<sup>+</sup>, **TianLu Zhu**<sup>+</sup>, Yu Mei, JinLing Jiang, Ying Zhan, XiaoQian Huang, Huan Zhang, **PengCheng Zeng**<sup>#</sup>, Fei Yuan<sup>#</sup>, Jun Zhang<sup>#</sup>. Distribution Pattern of Residual Tumour Cells in the Tumour Bed: Spatial-Framework and Mutational-Landscape Based Efficacy Evaluation of Preoperative Therapy for Advanced Gastric Cancer.
 
 # 👥 Group Members
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autumn 2025</div><img src='images/group_photo.jpg' alt="sym" width="100%"></div></div>
