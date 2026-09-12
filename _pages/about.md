@@ -137,7 +137,7 @@ Group members (current and past) are in **bold**; <sup>+</sup> : first authors w
 
 # 🔍 Opportunities
 ## Postdoctoral Researcher (New Post)
-We seek a postdoctoral fellow to work on methodology and theory in explainable AI and uncertainty quantification, or statistical modeling in single-cell multi-omics and spatial transcriptomics. Prior experience in machine learning, statistics, or computational biology is highly preferred. Strong programming skills are highly valued.
+We seek a postdoctoral fellow to work on methodology and theory in causal inference, causal AI and uncertainty quantification, or statistical modeling in single-cell multi-omics and spatial transcriptomics. Prior experience in machine learning, statistics, or computational biology is highly preferred. Strong programming skills are highly valued.
 
 The start date is negotiable and can be immediate. This is a two-year contract, renewable upon satisfactory performance. Salary is competitive and commensurate with experience, with benefits.
 
