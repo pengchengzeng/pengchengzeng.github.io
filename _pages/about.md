@@ -77,31 +77,40 @@ Group members (current and past) are in **bold**; <sup>+</sup> : first authors w
   Siyuan Jiang (ShanghaiTech University, 2023 Fall)
   
   Yunrui Liu (ShanghaiTech University, 2023 Fall)
-  
-- Master students
-  
-  Zhenhong Gui (ShanghaiTech University, 2024 Fall)
-  
+
   Xinyang Xiong (ShanghaiTech University, 2024 Fall)
   
-  Wenjie Li (ShanghaiTech University, 2022 Fall)
+- Master students
+
+  Hongyao Li (ShanghaiTech University, 2026 Fall)
+  
+  Zhenhong Gui (ShanghaiTech University, 2024 Fall)
 
 - Research Assistants
+    
+  Miaomiao Li (ShanghaiTech University, 2026 Fall)
+
+  Yue Zhang (ShanghaiTech University, 2026 Fall)
   
-  Hongyao Li (ShanghaiTech University, 2024 Fall)
-  
-  Peida Wu (ShanghaiTech University, 2024 Fall)
 
 </div>
 </div>
 
 ## *Alumni*
 
+### Master student
+
+  Wenjie Li (2022-2026, next position: PhD in AI with FULL PHD SCHOLARSHIP, The Hong Kong University of Science and Technology (Guangzhou))
+
 ### Research Assistants
 
-  Yihan Hu (2024-2025, next position: MS in data science, Columbia University)
+  Peida Wu (2024-2026，next position: MS in Data Science, University of Pennsylvania)
+
+  Yihan Hu (2024-2025, next position: MS in Data Science, Columbia University)
   
-  Tianlu Zhu (2023-2024, next position: MS in data science, University of California, San Franciso (UCSF))
+  Tianlu Zhu (2023-2024, next position: MS in Data Science, University of California, San Franciso (UCSF))
+
+
 
 # 👨‍🏫 Teaching
 ## Master courses
